@@ -7,6 +7,9 @@ public class Test4Ctesi {
         int b=5;
         int total =a+b;
         System.out.println(total);
+        
+        
+       //başka code varsa yazsana
 
     }
 }
