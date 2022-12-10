@@ -14,6 +14,8 @@ public class Test4Ctesi {
         double b1=56;
         double c=(a1*b1)/2;
         System.out.println(c);
+        
+        kod geldi..
 
     }
 }
