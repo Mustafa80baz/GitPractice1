@@ -6,6 +6,7 @@ public class Test4Ctesi {
         int a=4;
         int b=5;
         int total =a+b;
+        System.out.println(total);
 
     }
 }
